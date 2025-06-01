@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Legend-Of-Lonk
 - 👀 I’m interested in Game Dev and Learning how to Code
-- 🌱 I’m currently learning Java and C#
+- 🌱 I’m currently learning Java and C++
 - 📫 How to reach me Lonkesorous@gmail.com
 - 😄 Pronouns: He/Him
 
